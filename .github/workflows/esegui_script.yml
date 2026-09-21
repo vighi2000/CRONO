@@ -2,22 +2,21 @@ name: Esegui Script Richiami 2 Volte al Giorno
 
 on:
   schedule:
-    # Esegue in automatico ogni giorno alle 08:00 e alle 20:00 UTC
     - cron: '0 8,20 * * *'
-  
-  # Ti permette di avviarlo anche manualmente da GitHub
   workflow_dispatch:
+
+# Dà al bot il permesso esplicito di scrivere e salvare i file nel repository
+permissions:
+  contents: write
 
 jobs:
   run-python-script:
     runs-on: ubuntu-latest
 
     steps:
-      # Aggiornato a v4
       - name: Copia i file del repository
         uses: actions/checkout@v4
 
-      # Aggiornato a v5
       - name: Installa Python
         uses: actions/setup-python@v5
         with:
@@ -31,10 +30,10 @@ jobs:
       - name: Esegui lo script Python
         run: python scarica_richiami.py
 
-      - name: Salva il file JSON sul repository
+      - name: Salva i dati sul repository
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add richiami_ministero.json
+          git add .
           git commit -m "Aggiornamento automatico dei dati" || echo "Nessuna modifica da salvare"
           git push
