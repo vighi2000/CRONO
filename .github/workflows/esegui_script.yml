@@ -3,7 +3,7 @@ name: Esegui Script Richiami 2 Volte al Giorno
 on:
   schedule:
     # Esegue in automatico ogni giorno alle 08:00 e alle 20:00 UTC
-    - cron: '0 9,16 * * *'
+    - cron: '0 8,20 * * *'
   
   # Ti permette di avviarlo anche manualmente da GitHub
   workflow_dispatch:
@@ -13,11 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Aggiornato a v4
       - name: Copia i file del repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
+      # Aggiornato a v5
       - name: Installa Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
