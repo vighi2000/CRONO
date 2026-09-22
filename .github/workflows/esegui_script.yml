@@ -1,40 +1,15 @@
-name: Aggiorna Allette RASFF Italia
-
-on:
-  schedule:
-    # Esegue lo script due volte al giorno: alle 00:00 e alle 12:00 (UTC)
-    - cron: '0 0,12 * * *'
-  workflow_dispatch: 
-    # Questo parametro fa apparire un pulsante su GitHub per avviare lo script manualmente quando vuoi
-
-permissions:
-  contents: write # Permesso obbligatorio per far salvare il nuovo file JSON a GitHub
-
-jobs:
-  aggiorna-dati:
-    runs-on: ubuntu-latest
-    
-    steps:
-      - name: Checkout del repository
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      - name: Installa le librerie necessarie
-        run: pip install requests
-
-      - name: Esegui lo script Python
-        # Sostituisci "scarica_rasff.py" con il nome esatto del tuo file Python nel repository
-        run: python scarica_rasff.py 
-
-      - name: Salva il file JSON aggiornato nel repository
+- name: Salva il file JSON aggiornato nel repository
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add allerte_rasff_italia.json
-          # Se i dati sono identici a 12 ore prima, evita errori dicendo "Nessun nuovo dato"
-          git commit -m "🤖 Aggiornamento automatico allerte RASFF Italia" || echo "Nessun nuovo dato da aggiornare"
-          git push
+          
+          # Controlla se il file ha subito modifiche
+          if git diff --staged --quiet; then
+            echo "Nessun nuovo dato da aggiornare. Evito il push."
+          else
+            # Se ci sono modifiche, salva e invia a GitHub
+            git commit -m "🤖 Aggiornamento automatico allerte RASFF Italia"
+            git pull origin main --rebase
+            git push
+          fi
