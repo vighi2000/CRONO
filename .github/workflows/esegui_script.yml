@@ -2,7 +2,7 @@ name: Esegui Script Richiami 2 Volte al Giorno
 
 on:
   schedule:
-    - cron: '17 9,18 * * *'
+    - cron: '17 12,20 * * *'
   workflow_dispatch:
 
 # Dà al bot il permesso esplicito di scrivere e salvare i file nel repository
