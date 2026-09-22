@@ -1,26 +1,57 @@
 import requests
 import json
 
-url = "https://www.salute.gov.it/new/page-data/it/avvisi/avvisi-e-richiami-di-prodotti-alimentari/page-data.json"
-
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept": "application/json"
-}
-
-print("Scaricando i dati dal Ministero...")
-try:
-    response = requests.get(url, headers=headers)
+def fetch_rasff_data_italy(limit=100):
+    url = "https://webgate.ec.europa.eu/rasff-window/backend/public/notification/search"
     
-    if response.status_code == 200:
-        dati = response.json()
+    # Payload aggiornato con il filtro per "Paesi coinvolti: Italia"
+    payload = {
+        "parameters": {
+            "countries": {
+                "type": "LIST",
+                "name": "countries",
+                "value": [
+                    {"id": "IT", "label": "Italy"}
+                ]
+            }
+        },
+        "itemsPerPage": limit,
+        "pageNumber": 1
+    }
+    
+    headers = {
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+    }
+    
+    print("Scaricamento delle allerte relative all'Italia in corso...")
+    response = requests.post(url, json=payload, headers=headers)
+    response.raise_for_status()
+    
+    return response.json()
+
+def main():
+    try:
+        # Recupera le ultime 100 allerte che riguardano l'Italia
+        data = fetch_rasff_data_italy(limit=100)
         
-        # Salva il contenuto in un file locale
-        with open("richiami_ministero.json", "w", encoding="utf-8") as f:
-            json.dump(dati, f, ensure_ascii=False, indent=4)
+        # Estrai le allerte (la lista si trova dentro la chiave "notifications")
+        allerte = {"notifiche_italia": data.get("notifications", [])}
+        
+        # Conta quante ne ha trovate e stampalo a schermo
+        numero_allerte = len(allerte["notifiche_italia"])
+        print(f"Trovate {numero_allerte} allerte per l'Italia.")
+        
+        # Salvataggio in formato JSON
+        with open("allerte_rasff_italia.json", "w", encoding="utf-8") as json_file:
+            json.dump(allerte, json_file, indent=4, ensure_ascii=False)
             
-        print("✅ Successo! Il file è stato salvato come 'richiami_ministero.json'.")
-    else:
-        print(f"❌ Errore del server. Codice: {response.status_code}")
-except Exception as e:
-    print(f"❌ Errore di connessione: {e}")
+        print("✅ File 'allerte_rasff_italia.json' creato con successo!")
+
+    except requests.exceptions.RequestException as e:
+        print(f"❌ Errore durante la comunicazione con il server RASFF: {e}")
+    except Exception as e:
+        print(f"❌ Si è verificato un errore: {e}")
+
+if __name__ == "__main__":
+    main()
