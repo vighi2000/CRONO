@@ -25,7 +25,7 @@ jobs:
         run: pip install requests
 
       - name: Esegui lo script Python
-        run: importjson.py 
+        run: python importjson.py
 
       - name: Salva il file JSON aggiornato nel repository
         run: |
