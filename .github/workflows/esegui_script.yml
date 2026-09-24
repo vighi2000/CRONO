@@ -25,13 +25,13 @@ jobs:
         run: pip install requests
 
       - name: Esegui lo script Python
-        run: python scarica_rasff.py 
+        run: importjson.py 
 
       - name: Salva il file JSON aggiornato nel repository
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add allerte_rasff_italia.json
+          git add avvisi_richiami_osa.json
           
           if git diff --staged --quiet; then
             echo "Nessun nuovo dato da aggiornare. Evito il push."
