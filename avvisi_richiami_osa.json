@@ -1,6 +1,34 @@
 {
     "items": [
         {
+            "title": "Calamaro patagonico pulito aperto vaschetta",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/calamaro-patagonico-pulito-aperto-vaschetta",
+            "description": "Marca: Maxi Fish s.r.l.",
+            "pubDate": "25/09/2026",
+            "author": "Ministero della salute"
+        },
+        {
+            "title": "Calamaro patagonico pulito aperto",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/calamaro-patagonico-pulito-aperto",
+            "description": "Marca: Maxi Fish s.r.l.",
+            "pubDate": "25/09/2026",
+            "author": "Ministero della salute"
+        },
+        {
+            "title": "Calamaro patagonico pulito butterfly decongelato",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/calamaro-patagonico-pulito-butterfly-decongelato",
+            "description": "Marca: Maxi Fish s.r.l.",
+            "pubDate": "25/09/2026",
+            "author": "Ministero della salute"
+        },
+        {
+            "title": "Spiedino di calamaro patagonico e gambero argentino",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spiedino-di-calamaro-patagonico-e-gambero-argentino",
+            "description": "Marca: Maxi Fish s.r.l.",
+            "pubDate": "25/09/2026",
+            "author": "Ministero della salute"
+        },
+        {
             "title": "FILETTI DI ALICI IN OLIO",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-alici-olio",
             "description": "Marca: COOP",
@@ -109,34 +137,6 @@
             "title": "Brie 1 kg 60% NEUTRE",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brie-1-kg-60-neutre",
             "description": "Marca: SASU Pâturages Comtois\nRue de la Fromagerie\nFR - 70500 Aboncourt-Gesincourt - FRANCIA",
-            "pubDate": "15/09/2026",
-            "author": "Ministero della salute"
-        },
-        {
-            "title": "FILONE DI TONNO A PINNE GIALLE DECONGELATO SENZA PELLE SOTTOVUOTO",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filone-di-tonno-pinne-gialle-decongelato-senza-pelle-sottovuoto",
-            "description": "Marca: CORMEU SRL",
-            "pubDate": "15/09/2026",
-            "author": "Ministero della salute"
-        },
-        {
-            "title": "Amaretti Gallini",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/amaretti-gallini",
-            "description": "Marca: Amaretti Gallina",
-            "pubDate": "15/09/2026",
-            "author": "Ministero della salute"
-        },
-        {
-            "title": "Amaretti Gallina",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/amaretti-gallina",
-            "description": "Marca: Amaretti Gallina",
-            "pubDate": "15/09/2026",
-            "author": "Ministero della salute"
-        },
-        {
-            "title": "Pancetta affumicata (sottovuoto)",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pancetta-affumicata-sottovuoto-0",
-            "description": "Marca: Salumificio Campidanese Su Sartizzu",
             "pubDate": "15/09/2026",
             "author": "Ministero della salute"
         }
