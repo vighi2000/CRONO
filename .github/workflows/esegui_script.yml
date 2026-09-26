@@ -1,4 +1,4 @@
-name: Aggiorna Allette RASFF Italia
+name: Aggiorna Allerte RASFF Italia
 
 on:
   schedule:
@@ -31,9 +31,6 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
-          # Mostra lo stato dei file dopo l'esecuzione di Python
-          git status
           
           git add avvisi_richiami_osa.json
 
