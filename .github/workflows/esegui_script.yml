@@ -11,7 +11,7 @@ permissions:
 jobs:
   aggiorna-dati:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout del repository
         uses: actions/checkout@v5
@@ -31,8 +31,12 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add avvisi_richiami_osa.json
           
+          # Mostra lo stato dei file dopo l'esecuzione di Python
+          git status
+          
+          git add avvisi_richiami_osa.json
+
           if git diff --staged --quiet; then
             echo "Nessun nuovo dato da aggiornare. Evito il push."
           else
