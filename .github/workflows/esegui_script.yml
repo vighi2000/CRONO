@@ -25,6 +25,7 @@ jobs:
         run: pip install requests
 
       - name: Esegui lo script Python
+        # QUI è DOVE AVVIENE LA MAGIA: ora ignorerà i vecchi script .sh ed eseguirà solo il tuo Python
         run: python importjson.py
 
       - name: Salva il file JSON aggiornato nel repository
