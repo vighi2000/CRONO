@@ -22,10 +22,10 @@ jobs:
           python-version: '3.10'
 
       - name: Installa le librerie necessarie
-        run: pip install requests
+        # QUI AGGIUNGIAMO CLOUDSCRAPER PER INGANNARE IL FIREWALL
+        run: pip install requests cloudscraper
 
       - name: Esegui lo script Python
-        # QUI è DOVE AVVIENE LA MAGIA: ora ignorerà i vecchi script .sh ed eseguirà solo il tuo Python
         run: python importjson.py
 
       - name: Salva il file JSON aggiornato nel repository
