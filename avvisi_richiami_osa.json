@@ -1,6 +1,13 @@
 {
     "notifiche_italia": [
         {
+            "title": "ROCCAVERANO DOP",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/roccaverano-dop",
+            "description": "Marca: AGRILANGA",
+            "pubDate": "28/09/2026",
+            "guid": ""
+        },
+        {
             "title": "UOVA DA ALLEVAMENTO A TERRA - SPECIALI PASTA GIALLA",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-da-allevamento-terra-speciali-pasta-gialla",
             "description": "Marca: AVICOLA ALBERTI TAMARA",
@@ -129,13 +136,6 @@
         {
             "title": "Amaretti Gallina",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/amaretti-gallina-1",
-            "description": "Marca: Amaretti Gallina",
-            "pubDate": "16/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "Amaretti Gallina",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/amaretti-gallina-2",
             "description": "Marca: Amaretti Gallina",
             "pubDate": "16/09/2026",
             "guid": ""
