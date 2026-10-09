@@ -1,6 +1,104 @@
 {
     "notifiche_italia": [
         {
+            "title": "Valtellina Casera DOP",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/valtellina-casera-dop",
+            "description": "Marca: No Brand",
+            "pubDate": "09/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Valtellina Casera DOP",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/valtellina-casera-dop-0",
+            "description": "Marca: No Brand",
+            "pubDate": "09/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Valtellina Casera DOP",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/valtellina-casera-dop-1",
+            "description": "Marca: No brand",
+            "pubDate": "09/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "PEZZENTE DELLA MONTAGNA MATERANA",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pezzente-della-montagna-materana",
+            "description": "Marca: SALUMI TIPICI LUCANI",
+            "pubDate": "09/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Zuppa Toscana 500 g.",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-toscana-500-g",
+            "description": "Marca: Ortonatura S.A.C.A.R.L.",
+            "pubDate": "08/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Zuppa Toscana 500 g.",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-toscana-500-g-0",
+            "description": "Marca: Ortonatura S.A.C.A.R.L.",
+            "pubDate": "08/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Speck e Brie",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/speck-e-brie-2",
+            "description": "Marca: MIGROSS SPA",
+            "pubDate": "06/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Trancio di pesce spada",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trancio-di-pesce-spada",
+            "description": "Marca: Cedimar S.r.l.",
+            "pubDate": "06/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Trancio pesce spada",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trancio-pesce-spada",
+            "description": "Marca: Cedimar S.r.l.",
+            "pubDate": "06/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Trofie 2x500g",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trofie-2x500g",
+            "description": "Marca: Tre Mulini",
+            "pubDate": "05/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "SALAMELLA DOLCE SOTTOVUOTO",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamella-dolce-sottovuoto",
+            "description": "Marca: FRANCHI SALUMI",
+            "pubDate": "02/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "SALAMELLA DOLCE SOTTOVUOTO INTERA",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamella-dolce-sottovuoto-intera",
+            "description": "Marca: FRANCHI SALUMI",
+            "pubDate": "02/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "UOVA DA ALLEVAMENTO A TERRA - SPECIALI PASTA GIALLA",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-da-allevamento-terra-speciali-pasta-gialla-0",
+            "description": "Marca: AVICOLA ALBERTI TAMARA",
+            "pubDate": "02/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Snack Sticks (Fuet/Chorizo), 80g",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/snack-sticks-fuetchorizo-80g",
+            "description": "Marca: Sol&Mar",
+            "pubDate": "30/09/2026",
+            "guid": ""
+        },
+        {
             "title": "ROCCAVERANO DOP",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/roccaverano-dop",
             "description": "Marca: AGRILANGA",
@@ -40,104 +138,6 @@
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spiedino-di-calamaro-patagonico-e-gambero-argentino",
             "description": "Marca: Maxi Fish s.r.l.",
             "pubDate": "25/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "HAMBURGER DI SCOTTONA - 200g (100X2) skin",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-di-scottona-200g-100x2-skin",
-            "description": "Marca: HAMBURGER DI SCOTTONA - GRAN SELEZIONE",
-            "pubDate": "25/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "FILETTI DI ALICI IN OLIO",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-alici-olio",
-            "description": "Marca: COOP",
-            "pubDate": "24/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "HAMBURGER DI BUFALO - 170g skin",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-di-bufalo-170g-skin",
-            "description": "Marca: HAMBURGER DI BUFALO - GRAN SELEZIONE",
-            "pubDate": "24/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "pomodoro ciliegino",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-ciliegino",
-            "description": "Marca: G. & V. Ortaggi",
-            "pubDate": "23/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "Tortellini alla carne 2 confezioni da 250 g",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortellini-alla-carne-2-confezioni-da-250-g",
-            "description": "Marca: Agripasta SRL - Oggi cucino BIO",
-            "pubDate": "23/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "Salame stagionato al tartufo",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-stagionato-al-tartufo",
-            "description": "Marca: Salumificio F.lli Costantini",
-            "pubDate": "22/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "Salame stagionato al trtufo",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-stagionato-al-trtufo",
-            "description": "Marca: Salumificio F.lli Costantini",
-            "pubDate": "22/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "MAIS PER POP CORN",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn-2",
-            "description": "Marca: FIOR DI LOTO",
-            "pubDate": "21/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "MAIS ITALIANO PER POP CORN",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-italiano-pop-corn",
-            "description": "Marca: PROBIOS",
-            "pubDate": "21/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "MAIS ITALIANO PER POP CORN",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-italiano-pop-corn-0",
-            "description": "Marca: PROBIOS",
-            "pubDate": "21/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "MAIS PER POP CORN",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn-3",
-            "description": "Marca: FIOR DI LOTO",
-            "pubDate": "21/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "Brie Tour De Marze",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brie-tour-de-marze",
-            "description": "Marca: Paturages Comtois",
-            "pubDate": "17/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "Amaretti Gallina",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/amaretti-gallina-0",
-            "description": "Marca: Amaretti Gallina",
-            "pubDate": "16/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "Amaretti Gallina",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/amaretti-gallina-1",
-            "description": "Marca: Amaretti Gallina",
-            "pubDate": "16/09/2026",
             "guid": ""
         }
     ]
