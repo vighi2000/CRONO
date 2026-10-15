@@ -1,6 +1,41 @@
 {
     "notifiche_italia": [
         {
+            "title": "VEGGARELLA - Preparazione gastronomica vegetale a base di soia e mandorle",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/veggarella-preparazione-gastronomica-vegetale-base-di-soia-e",
+            "description": "Marca: IO VEG",
+            "pubDate": "14/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Perfetto moka macinato aromatizzato al caramello",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/perfetto-moka-macinato-aromatizzato-al-caramello",
+            "description": "Marca: Bialetti",
+            "pubDate": "13/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Cooperlat Soc. Coop: Agr.",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cooperlat-soc-coop-agr",
+            "description": "Marca: Cigno",
+            "pubDate": "13/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "TRAMEZZINO COOP PROSCIUTTO COTTO 150G",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tramezzino-coop-prosciutto-cotto-150g",
+            "description": "Marca: COOP",
+            "pubDate": "12/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "VITELLO TONNATO gr. 180",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitello-tonnato-gr-180",
+            "description": "Marca: PORTAMI VIA",
+            "pubDate": "12/10/2026",
+            "guid": ""
+        },
+        {
             "title": "Valtellina Casera DOP",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/valtellina-casera-dop",
             "description": "Marca: No Brand",
@@ -103,41 +138,6 @@
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/roccaverano-dop",
             "description": "Marca: AGRILANGA",
             "pubDate": "28/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "UOVA DA ALLEVAMENTO A TERRA - SPECIALI PASTA GIALLA",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-da-allevamento-terra-speciali-pasta-gialla",
-            "description": "Marca: AVICOLA ALBERTI TAMARA",
-            "pubDate": "26/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "Calamaro patagonico pulito aperto vaschetta",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/calamaro-patagonico-pulito-aperto-vaschetta",
-            "description": "Marca: Maxi Fish s.r.l.",
-            "pubDate": "25/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "Calamaro patagonico pulito aperto",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/calamaro-patagonico-pulito-aperto",
-            "description": "Marca: Maxi Fish s.r.l.",
-            "pubDate": "25/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "Calamaro patagonico pulito butterfly decongelato",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/calamaro-patagonico-pulito-butterfly-decongelato",
-            "description": "Marca: Maxi Fish s.r.l.",
-            "pubDate": "25/09/2026",
-            "guid": ""
-        },
-        {
-            "title": "Spiedino di calamaro patagonico e gambero argentino",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spiedino-di-calamaro-patagonico-e-gambero-argentino",
-            "description": "Marca: Maxi Fish s.r.l.",
-            "pubDate": "25/09/2026",
             "guid": ""
         }
     ]
