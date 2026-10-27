@@ -1,6 +1,76 @@
 {
     "notifiche_italia": [
         {
+            "title": "Salame Emiliano",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-emiliano",
+            "description": "Marca: CLAI",
+            "pubDate": "27/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Acqua minerale naturale",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale",
+            "description": "Marca: San Zaccaria - Fonti Terme di Brennero S.r.l.",
+            "pubDate": "27/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Uova biologiche (sfuse e in confezione da 4)",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-sfuse-e-confezione-da-4",
+            "description": "Marca: FORNASERO",
+            "pubDate": "26/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "LA GIARDINIERA SOTT'OLIO 250g",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/la-giardiniera-sottolio-250g",
+            "description": "Marca: FERRI - LA FAVOLA ANTICA",
+            "pubDate": "26/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "CONDIRISO E CONDIPASTA SOTT'OLIO 250g",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/condiriso-e-condipasta-sottolio-250g",
+            "description": "Marca: FERRI - LA FAVOLA ANTICA",
+            "pubDate": "26/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Formaggio Pecorino Spadula",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pecorino-spadula",
+            "description": "Marca: Caseificio Artigianale PINNA di Pinna Francesco",
+            "pubDate": "26/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Salsicciotta con finocchio ¿ COD 5",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsicciotta-con-finocchio-cod-5-0",
+            "description": "Marca: SALUMI EMMEDUE SRL",
+            "pubDate": "26/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Pasta di Salame con pepe ¿ COD 771",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-salame-con-pepe-cod-771-0",
+            "description": "Marca: SALUMI EMMEDUE SRL",
+            "pubDate": "26/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "UOVA FRESCHE DA GALLINE ALLEVATE A TERRA",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-galline-allevate-terra-1",
+            "description": "Marca: LA QUERCIA SOCIETA' COOPERATIVA SOCIALE",
+            "pubDate": "26/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Formaggio SPADULA",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-spadula",
+            "description": "Marca: Caseificio Artigianale PINNA di Francesco Pinna",
+            "pubDate": "26/10/2026",
+            "guid": ""
+        },
+        {
             "title": "Salsicciotta con finocchio ¿ COD 5",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsicciotta-con-finocchio-cod-5",
             "description": "Marca: SALUMI EMMEDUE SRL",
@@ -67,76 +137,6 @@
             "title": "FILETTI DI TONNO SURGELAT¿",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-tonno-surgelat",
             "description": "Marca: SELEZIONE PIÙ",
-            "pubDate": "21/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "Uova Biologiche",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-6",
-            "description": "Marca: Olivero Claudio",
-            "pubDate": "21/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "SALSA TARTUFATA",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-tartufata",
-            "description": "Marca: BREZZI OLIVIERO TARTUFI",
-            "pubDate": "21/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "SALSA TARTUFATA",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-tartufata-0",
-            "description": "Marca: BREZZI OLIVIERO TARTUFI",
-            "pubDate": "21/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "10 Uova fresche italiane",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/10-uova-fresche-italiane",
-            "description": "Marca: SìEssenziali (EcorNaturaSì)",
-            "pubDate": "21/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "Funghi Misti sott'olio",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-misti-sottolio",
-            "description": "Marca: Ferri S.a.S. - La Favola Antica",
-            "pubDate": "21/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "Funghi misti sott'olio",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-misti-sottolio-0",
-            "description": "Marca: Ferri S.a.s. - La Favola Antica",
-            "pubDate": "21/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "asparagi conditi sott'olio",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/asparagi-conditi-sottolio",
-            "description": "Marca: Ferri S.a.s. di Ferri Pietro",
-            "pubDate": "21/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "Carciofini sott'olio",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carciofini-sottolio",
-            "description": "Marca: Ferri S.a.s. di ferri Piero",
-            "pubDate": "21/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "Fagiolini sott'olio",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagiolini-sottolio",
-            "description": "Marca: Ferri S.a.s. di Ferri Piero",
-            "pubDate": "21/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "Carciofini sott'olio",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carciofini-sottolio-0",
-            "description": "Marca: Ferri S.a.s. di Ferri Piero",
             "pubDate": "21/10/2026",
             "guid": ""
         }
