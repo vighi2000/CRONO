@@ -1,6 +1,76 @@
 {
     "notifiche_italia": [
         {
+            "title": "Zucchine a filetti piccanti sott'olio",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zucchine-filetti-piccanti-sottolio",
+            "description": "Marca: Ferri - La Favola Antica",
+            "pubDate": "30/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Carciofini sott'olio",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carciofini-sottolio-2",
+            "description": "Marca: Ferri - La Favola Antica",
+            "pubDate": "30/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "6 UOVA FRESCHE DA ALLEVAMENTO A TERRA - M - CATEGORIA A",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-fresche-da-allevamento-terra-m-categoria",
+            "description": "Marca: LATTERIA CHIURO",
+            "pubDate": "29/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Confettura extra di mirtilli",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confettura-extra-di-mirtilli",
+            "description": "Marca: Cascina Balcarino",
+            "pubDate": "29/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "SALSICCIA PICCANTE",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-piccante-0",
+            "description": "Marca: SALUMERIA DEL CORSO",
+            "pubDate": "28/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "SALSICCIA NAPOLI DOLCE",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-napoli-dolce",
+            "description": "Marca: BOTTEGA DEL GUSTO",
+            "pubDate": "28/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Zucca a filetti piccanti 900g",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zucca-filetti-piccanti-900g",
+            "description": "Marca: Ferri - La Favola Antica",
+            "pubDate": "28/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Zucca Grigliata 300g",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zucca-grigliata-300g",
+            "description": "Marca: Ferri - La Favola Antica",
+            "pubDate": "28/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Zucca a filetti piccanti 250g",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zucca-filetti-piccanti-250g",
+            "description": "Marca: Ferri - La Favola Antica",
+            "pubDate": "28/10/2026",
+            "guid": ""
+        },
+        {
+            "title": "Zucca Grigliata 900g",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zucca-grigliata-900g",
+            "description": "Marca: Ferri - La Favola Antica",
+            "pubDate": "28/10/2026",
+            "guid": ""
+        },
+        {
             "title": "Salame Emiliano",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-emiliano",
             "description": "Marca: CLAI",
@@ -68,76 +138,6 @@
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-spadula",
             "description": "Marca: Caseificio Artigianale PINNA di Francesco Pinna",
             "pubDate": "26/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "Salsicciotta con finocchio ¿ COD 5",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsicciotta-con-finocchio-cod-5",
-            "description": "Marca: SALUMI EMMEDUE SRL",
-            "pubDate": "23/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "Salsicciotta piccante ¿ COD 7",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsicciotta-piccante-cod-7",
-            "description": "Marca: SALUMI EMMEDUE SRL",
-            "pubDate": "23/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "Salsicciotta con finocchio ¿ COD 442",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsicciotta-con-finocchio-cod-442",
-            "description": "Marca: SALUMI EMMEDUE SRL",
-            "pubDate": "23/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "Pasta di Salame con finocchio ¿ COD 497",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-salame-con-finocchio-cod-497",
-            "description": "Marca: SALUMI EMMEDUE SRL",
-            "pubDate": "23/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "Pasta di Salame con pepe ¿ COD 771",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-salame-con-pepe-cod-771",
-            "description": "Marca: SALUMI EMMEDUE SRL",
-            "pubDate": "23/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "Antipasto di verdure sott'olio",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/antipasto-di-verdure-sottolio",
-            "description": "Marca: Ferri S.a.s. - La Favola Antica",
-            "pubDate": "22/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "Inverno - Cavolfiori sott'olio",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/inverno-cavolfiori-sottolio",
-            "description": "Marca: Ferri S.a.s. - La Favola Antica",
-            "pubDate": "22/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "TIRAMISU¿ 200g",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-200g",
-            "description": "Marca: GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI",
-            "pubDate": "22/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "Cavolo cappuccio a filetti sott'olio",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cavolo-cappuccio-filetti-sottolio",
-            "description": "Marca: Ferri S.a.s. - La Favola Antica",
-            "pubDate": "22/10/2026",
-            "guid": ""
-        },
-        {
-            "title": "FILETTI DI TONNO SURGELAT¿",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-tonno-surgelat",
-            "description": "Marca: SELEZIONE PIÙ",
-            "pubDate": "21/10/2026",
             "guid": ""
         }
     ]
