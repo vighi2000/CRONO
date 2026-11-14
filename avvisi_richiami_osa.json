@@ -1,6 +1,76 @@
 {
     "notifiche_italia": [
         {
+            "title": "POMODORO DATTERINO",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-datterino",
+            "description": "Marca: L'ORTOFRUTTICOLA F S.R.L. - 93015 - NISCEMI (CL)",
+            "pubDate": "14/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "KG1 PISTACCH.SGUSC SPEL MC",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kg1-pistacchsgusc-spel-mc",
+            "description": "Marca: Metro Chef",
+            "pubDate": "13/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "Pistacchi sgusciati 50 g",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pistacchi-sgusciati-50-g",
+            "description": "Marca: Ellegi Frutta secca",
+            "pubDate": "13/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "Perfetto Moka aromatizzato alla nocciola, Macinato Universale aromatizzato alla nocciola",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/perfetto-moka-aromatizzato-alla-nocciola-macinato-universale",
+            "description": "Marca: Bialetti",
+            "pubDate": "13/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "SALSICCIA STAGIONATA CALITRANA SEMIPICCANTE",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-semipiccante",
+            "description": "Marca: SALUMIFICIO TORNILLO SRL",
+            "pubDate": "12/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "SALSICCIA STAGIONATA CALITRANA DOLCE",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-dolce",
+            "description": "Marca: SALUMIFICIO TORNILLO SRL",
+            "pubDate": "12/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "SALSICCIA STAGIONATA CALITRANA DOLCE",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-dolce-0",
+            "description": "Marca: SALUMIFICIO TORNILLO SRL",
+            "pubDate": "12/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "SALSICCIA STAGIONATA CALITRANA A CATENELLA",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-catenella",
+            "description": "Marca: SALUMIFICIO TORNILLO SRL",
+            "pubDate": "12/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "SALSICCIA STAGIONATA CALITRANA CON PEPERONCINO DOLCE",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-con-peperoncino-dolce",
+            "description": "Marca: SALUMIFICIO TORNILLO SRL",
+            "pubDate": "12/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "SALSICCIA STAGIONATA CALITRANA PICCANTE",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-piccante",
+            "description": "Marca: SALUMIFICIO TORNILLO SRL",
+            "pubDate": "12/11/2026",
+            "guid": ""
+        },
+        {
             "title": "Zucchine a rondelle 600g",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zucchine-rondelle-600g",
             "description": "Marca: Ferri - La Favola Antica",
@@ -67,76 +137,6 @@
             "title": "Cipolle maggioline al balsamico · Peperoni sigaretta in agrodolce · Pesto di cavolo nero",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cipolle-maggioline-al-balsamico-peperoni-sigaretta-agrodolce-pesto",
             "description": "Marca: SOCIETA' AGRICOLA SCUDIERO S.S.",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Cipolle maggioline al balsamico · Peperoni sigaretta in agrodolce · Pesto di cavolo...",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cipolle-maggioline-al-balsamico-peperoni-sigaretta-agrodolce-0",
-            "description": "Marca: TONINELLI FRATELLI SOCIETA' AGRICOLA",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Confettura di pesche e amaretti · Confettura extra di albicocche · Confettura extra di ciliegie...",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confettura-di-pesche-e-amaretti-confettura-extra-di-albicocche",
-            "description": "Marca: VERONICA PADOVANI - AZ. AGR. DAL FIOR",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Aglio al peperoncino · Aglio alle erbe · Aglio alle erbe aromatiche · Aglio erbe · Aglio erbe aromat",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aglio-al-peperoncino-aglio-alle-erbe-aglio-alle-erbe-aromatiche",
-            "description": "Marca: CASCINA BALCARINO",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Carciofi · Carciofi al rosmarino · Carciofi con gambo · Carciofi con gambo alla romana",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carciofi-carciofi-al-rosmarino-carciofi-con-gambo-carciofi-con",
-            "description": "Marca: CASCINA BALCARINO",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Composta d'estate · Composta estate e ibisco",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/composta-destate-composta-estate-e-ibisco",
-            "description": "Marca: CASCINA BALCARINO",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Amaretti e percocca · Castagne e vaniglia · Castagne, rum e cacao · Confettura 100% frutta Fragoline",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/amaretti-e-percocca-castagne-e-vaniglia-castagne-rum-e-cacao",
-            "description": "Marca: CASCINA BALCARINO",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Cipolle al rosmarino · Cipolle alla Giuliana · Cipolle borettane al balsamico ·",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cipolle-al-rosmarino-cipolle-alla-giuliana-cipolle-borettane-al",
-            "description": "Marca: CASCINA BALCARINO",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Cioccorenza · Cotognata · Crema di tighe",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cioccorenza-cotognata-crema-di-tighe",
-            "description": "Marca: CASCINA BALCARINO",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Aglio orsino · Boccioli di tarassaco · Borragine · Erbe aromatiche · Germogli di luppolo selvatico",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aglio-orsino-boccioli-di-tarassaco-borragine-erbe-aromatiche",
-            "description": "Marca: CASCINA BALCARINO",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Frutta sciroppata - Visciole",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/frutta-sciroppata-visciole",
-            "description": "Marca: CASCINA BALCARINO",
             "pubDate": "09/11/2026",
             "guid": ""
         }
