@@ -1,6 +1,13 @@
 {
     "notifiche_italia": [
         {
+            "title": "SALMONE SCOZZESE AFFUMICATO",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-scozzese-affumicato-0",
+            "description": "Marca: SALMONE SCOZZESE AFFUMICATO",
+            "pubDate": "16/11/2026",
+            "guid": ""
+        },
+        {
             "title": "POMODORO DATTERINO",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-datterino",
             "description": "Marca: L'ORTOFRUTTICOLA F S.R.L. - 93015 - NISCEMI (CL)",
@@ -130,13 +137,6 @@
             "title": "Filetti di cipolle rosse al miele di rosmarino · Friarielli e Jalapeno · Peperoncini ripieni...",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-cipolle-rosse-al-miele-di-rosmarino-friarielli-e",
             "description": "Marca: SOCIETA' AGRICOLA PAGANI BRUNO E LUIGI S.S.",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Cipolle maggioline al balsamico · Peperoni sigaretta in agrodolce · Pesto di cavolo nero",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cipolle-maggioline-al-balsamico-peperoni-sigaretta-agrodolce-pesto",
-            "description": "Marca: SOCIETA' AGRICOLA SCUDIERO S.S.",
             "pubDate": "09/11/2026",
             "guid": ""
         }
