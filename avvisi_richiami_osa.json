@@ -1,6 +1,69 @@
 {
     "notifiche_italia": [
         {
+            "title": "Salsiccia di suino",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-di-suino",
+            "description": "Marca: Salsiccia di suino",
+            "pubDate": "20/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "POMODORO DATTERINO",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-datterino-0",
+            "description": "Marca: L'ORTOFRUTTICOLA F S.R.L",
+            "pubDate": "20/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "Pomodorino Datterino",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodorino-datterino",
+            "description": "Marca: l'Ortofrutticola F SRL",
+            "pubDate": "20/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "GELATINA AL GUSTO DI UVA VERDE E GUSTO DI PESCA",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelatina-al-gusto-di-uva-verde-e-gusto-di-pesca",
+            "description": "Marca: YANJINPUZ",
+            "pubDate": "19/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "SALSICCIA VENE¿¿ X 4",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-vene-x-4",
+            "description": "Marca: SALUMIFICIO SANT'ORSO SRL",
+            "pubDate": "19/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "GELATINA ALLA FRUTTA 200g x 24",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelatina-alla-frutta-200g-x-24",
+            "description": "Marca: XI ZHI LANG",
+            "pubDate": "19/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "Revusco Salame del peccato",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/revusco-salame-del-peccato",
+            "description": "Marca: Salame Revusco",
+            "pubDate": "18/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "SALSICCIA STAGIONATA",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-6",
+            "description": "Marca: POGGINO SALUMI",
+            "pubDate": "18/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "SALSICCIA STAGIONATA S/V",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-sv",
+            "description": "Marca: POGGINO SALUMI",
+            "pubDate": "18/11/2026",
+            "guid": ""
+        },
+        {
             "title": "SALMONE SCOZZESE AFFUMICATO",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-scozzese-affumicato-0",
             "description": "Marca: SALMONE SCOZZESE AFFUMICATO",
@@ -75,69 +138,6 @@
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-piccante",
             "description": "Marca: SALUMIFICIO TORNILLO SRL",
             "pubDate": "12/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Zucchine a rondelle 600g",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zucchine-rondelle-600g",
-            "description": "Marca: Ferri - La Favola Antica",
-            "pubDate": "11/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "LORENZO ORLANDO - ORTOFRUTTICOLA LA PERLA",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lorenzo-orlando-ortofrutticola-la-perla",
-            "description": "Marca: Nettare di Albicocche · Nettare di ciliegie",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Confettura extra di fragole · Confettura extra di pesche · Giardiniera · Nettare di albicocca...",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confettura-extra-di-fragole-confettura-extra-di-pesche-giardiniera",
-            "description": "Marca: SOCIETA' AGRICOLA BARISELLI GIACOMO E MATTEO S.S.",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Confettura extra di fragole · Confettura extra di pesche · Giardiniera · Nettare di albicocca",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confettura-extra-di-fragole-confettura-extra-di-pesche-0",
-            "description": "Marca: SOCIETA' AGRICOLA BARISELLI GIACOMO E MATTEO S.S.",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Passata di pomodoro",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/passata-di-pomodoro",
-            "description": "Marca: SOCIETA' AGRICOLA CAVALTA DI GHIDESI G. E C. S.S.",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Confettura extra di mele cotogne",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confettura-extra-di-mele-cotogne",
-            "description": "Marca: SOCIETA' AGRICOLA GRUGNI",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Confettura di asimina triloba · Nettare di asimina triloba · Nettare di asimina triloba e arancia...",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confettura-di-asimina-triloba-nettare-di-asimina-triloba-nettare-di",
-            "description": "Marca: SOCIETA' AGRICOLA IL PLATANO S.S.",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Aglio orsino · Boccioli di tarassaco · Confettura extra di aronia · Confettura extra di ciliegie...",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aglio-orsino-boccioli-di-tarassaco-confettura-extra-di-aronia",
-            "description": "Marca: SOCIETA' AGRICOLA LA CONTEA S.S.",
-            "pubDate": "09/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Filetti di cipolle rosse al miele di rosmarino · Friarielli e Jalapeno · Peperoncini ripieni...",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-cipolle-rosse-al-miele-di-rosmarino-friarielli-e",
-            "description": "Marca: SOCIETA' AGRICOLA PAGANI BRUNO E LUIGI S.S.",
-            "pubDate": "09/11/2026",
             "guid": ""
         }
     ]
