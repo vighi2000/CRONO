@@ -1,6 +1,48 @@
 {
     "notifiche_italia": [
         {
+            "title": "Uova fresche da galline allevate a terra",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-galline-allevate-terra-2",
+            "description": "Marca: La Quercia società cooperativa",
+            "pubDate": "25/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "Salame magro 100g",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-magro-100g",
+            "description": "Marca: Welles",
+            "pubDate": "24/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "LATTERIA VILLA PINTA IEMOLI FORMAGGIO",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latteria-villa-pinta-iemoli-formaggio",
+            "description": "Marca: IPERAL",
+            "pubDate": "24/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "BISCOTTI FROLLE-SARACENI 6+6 BOX",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscotti-frolle-saraceni-66-box",
+            "description": "Marca: INGLESE GLUTENFREE",
+            "pubDate": "23/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "CANDYNESS MIX 450ML",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/candyness-mix-450ml",
+            "description": "Marca: CANDYNESS SRL",
+            "pubDate": "23/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "CANDY POKE",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/candy-poke",
+            "description": "Marca: CANDYNESS SRL",
+            "pubDate": "23/11/2026",
+            "guid": ""
+        },
+        {
             "title": "Salsiccia di suino",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-di-suino",
             "description": "Marca: Salsiccia di suino",
@@ -96,48 +138,6 @@
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pistacchi-sgusciati-50-g",
             "description": "Marca: Ellegi Frutta secca",
             "pubDate": "13/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Perfetto Moka aromatizzato alla nocciola, Macinato Universale aromatizzato alla nocciola",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/perfetto-moka-aromatizzato-alla-nocciola-macinato-universale",
-            "description": "Marca: Bialetti",
-            "pubDate": "13/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "SALSICCIA STAGIONATA CALITRANA SEMIPICCANTE",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-semipiccante",
-            "description": "Marca: SALUMIFICIO TORNILLO SRL",
-            "pubDate": "12/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "SALSICCIA STAGIONATA CALITRANA DOLCE",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-dolce",
-            "description": "Marca: SALUMIFICIO TORNILLO SRL",
-            "pubDate": "12/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "SALSICCIA STAGIONATA CALITRANA DOLCE",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-dolce-0",
-            "description": "Marca: SALUMIFICIO TORNILLO SRL",
-            "pubDate": "12/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "SALSICCIA STAGIONATA CALITRANA A CATENELLA",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-catenella",
-            "description": "Marca: SALUMIFICIO TORNILLO SRL",
-            "pubDate": "12/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "SALSICCIA STAGIONATA CALITRANA CON PEPERONCINO DOLCE",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-con-peperoncino-dolce",
-            "description": "Marca: SALUMIFICIO TORNILLO SRL",
-            "pubDate": "12/11/2026",
             "guid": ""
         }
     ]
