@@ -1,6 +1,34 @@
 {
     "notifiche_italia": [
         {
+            "title": "Salame pepe nero di suino dei nebrodi",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-pepe-nero-di-suino-dei-nebrodi",
+            "description": "Marca: Fattoria Borrello Soc. Semplice Agricola Borrello A&C",
+            "pubDate": "27/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "PESTO DI PISTACCHIO",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-di-pistacchio",
+            "description": "Marca: ESSENZA-CARBONE",
+            "pubDate": "27/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "Torta Sole",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-sole",
+            "description": "Marca: Elisenda Esselunga",
+            "pubDate": "27/11/2026",
+            "guid": ""
+        },
+        {
+            "title": "Fichi secchi rinfusa da 10 kg",
+            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-secchi-rinfusa-da-10-kg",
+            "description": "Marca: Stella del Sud srl",
+            "pubDate": "26/11/2026",
+            "guid": ""
+        },
+        {
             "title": "Uova fresche da galline allevate a terra",
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-galline-allevate-terra-2",
             "description": "Marca: La Quercia società cooperativa",
@@ -110,34 +138,6 @@
             "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-sv",
             "description": "Marca: POGGINO SALUMI",
             "pubDate": "18/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "SALMONE SCOZZESE AFFUMICATO",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-scozzese-affumicato-0",
-            "description": "Marca: SALMONE SCOZZESE AFFUMICATO",
-            "pubDate": "16/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "POMODORO DATTERINO",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-datterino",
-            "description": "Marca: L'ORTOFRUTTICOLA F S.R.L. - 93015 - NISCEMI (CL)",
-            "pubDate": "14/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "KG1 PISTACCH.SGUSC SPEL MC",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kg1-pistacchsgusc-spel-mc",
-            "description": "Marca: Metro Chef",
-            "pubDate": "13/11/2026",
-            "guid": ""
-        },
-        {
-            "title": "Pistacchi sgusciati 50 g",
-            "link": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pistacchi-sgusciati-50-g",
-            "description": "Marca: Ellegi Frutta secca",
-            "pubDate": "13/11/2026",
             "guid": ""
         }
     ]
